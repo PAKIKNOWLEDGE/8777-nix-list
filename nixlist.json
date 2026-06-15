@@ -1,0 +1,94 @@
+{
+  "elements": {
+    "fastfetch": {
+      "active": true,
+      "attrPath": "legacyPackages.x86_64-linux.fastfetch",
+      "originalUrl": "flake:nixpkgs",
+      "outputs": null,
+      "priority": 5,
+      "storePaths": [
+        "/nix/store/f6lwxgylc8g9c1ygr8gy6prnw8l0nbnd-fastfetch-2.64.2",
+        "/nix/store/n24s3v49ykwzn8g34i9qibxacm5p89d8-fastfetch-2.64.2-man"
+      ],
+      "url": "github:NixOS/nixpkgs/8c3cede7ddc26bd659d2d383b5610efbd2c7a16e?narHash=sha256-rppURzHviaQN131F%2BnLiLdGfcb0uCd9gGP0E5%2Biw9MI%3D"
+    },
+    "go-musicfox": {
+      "active": true,
+      "attrPath": "legacyPackages.x86_64-linux.go-musicfox",
+      "originalUrl": "flake:nixpkgs",
+      "outputs": null,
+      "priority": 5,
+      "storePaths": [
+        "/nix/store/9106d5ldjpjs8pxm7anzhbvbch5n54k6-go-musicfox-4.8.1"
+      ],
+      "url": "github:NixOS/nixpkgs/8c3cede7ddc26bd659d2d383b5610efbd2c7a16e?narHash=sha256-rppURzHviaQN131F%2BnLiLdGfcb0uCd9gGP0E5%2Biw9MI%3D"
+    },
+    "greenclip": {
+      "active": true,
+      "attrPath": "legacyPackages.x86_64-linux.haskellPackages.greenclip",
+      "originalUrl": "flake:nixpkgs",
+      "outputs": null,
+      "priority": 5,
+      "storePaths": [
+        "/nix/store/sjvfskwgq5zgbbbaf3bddxvs594qnc01-greenclip-4.3.1"
+      ],
+      "url": "github:NixOS/nixpkgs/8c3cede7ddc26bd659d2d383b5610efbd2c7a16e?narHash=sha256-rppURzHviaQN131F%2BnLiLdGfcb0uCd9gGP0E5%2Biw9MI%3D"
+    },
+    "hugo": {
+      "active": true,
+      "attrPath": "legacyPackages.x86_64-linux.hugo",
+      "originalUrl": "flake:nixpkgs",
+      "outputs": null,
+      "priority": 5,
+      "storePaths": [
+        "/nix/store/dy9jd47khhcprarwhzyl0i3qwwl7g6z8-hugo-0.162.1"
+      ],
+      "url": "github:NixOS/nixpkgs/8c3cede7ddc26bd659d2d383b5610efbd2c7a16e?narHash=sha256-rppURzHviaQN131F%2BnLiLdGfcb0uCd9gGP0E5%2Biw9MI%3D"
+    },
+    "jetbrains-mono": {
+      "active": true,
+      "attrPath": "legacyPackages.x86_64-linux.nerd-fonts.jetbrains-mono",
+      "originalUrl": "flake:nixpkgs",
+      "outputs": null,
+      "priority": 5,
+      "storePaths": [
+        "/nix/store/s7wwsmqyscxqdxcdk26lznf9kaa7z0x5-nerd-fonts-jetbrains-mono-3.4.0+2.304"
+      ],
+      "url": "github:NixOS/nixpkgs/8c3cede7ddc26bd659d2d383b5610efbd2c7a16e?narHash=sha256-rppURzHviaQN131F%2BnLiLdGfcb0uCd9gGP0E5%2Biw9MI%3D"
+    },
+    "neovim": {
+      "active": true,
+      "attrPath": "legacyPackages.x86_64-linux.neovim",
+      "originalUrl": "flake:nixpkgs",
+      "outputs": null,
+      "priority": 4,
+      "storePaths": [
+        "/nix/store/7idwf19b7b53wn7rznqgccymyif7kmwh-neovim-0.12.2"
+      ],
+      "url": "github:NixOS/nixpkgs/8c3cede7ddc26bd659d2d383b5610efbd2c7a16e?narHash=sha256-rppURzHviaQN131F%2BnLiLdGfcb0uCd9gGP0E5%2Biw9MI%3D"
+    },
+    "starship": {
+      "active": true,
+      "attrPath": "legacyPackages.x86_64-linux.starship",
+      "originalUrl": "flake:nixpkgs",
+      "outputs": null,
+      "priority": 5,
+      "storePaths": [
+        "/nix/store/2iyzhxjwbpir2n2xaqgq14v8455kbrri-starship-1.25.1"
+      ],
+      "url": "github:NixOS/nixpkgs/8c3cede7ddc26bd659d2d383b5610efbd2c7a16e?narHash=sha256-rppURzHviaQN131F%2BnLiLdGfcb0uCd9gGP0E5%2Biw9MI%3D"
+    },
+    "yazi": {
+      "active": true,
+      "attrPath": "legacyPackages.x86_64-linux.yazi",
+      "originalUrl": "flake:nixpkgs",
+      "outputs": null,
+      "priority": 5,
+      "storePaths": [
+        "/nix/store/549k33kzv5w0dvyrkiqqhn0gawxkvra1-yazi-26.5.6"
+      ],
+      "url": "github:NixOS/nixpkgs/8c3cede7ddc26bd659d2d383b5610efbd2c7a16e?narHash=sha256-rppURzHviaQN131F%2BnLiLdGfcb0uCd9gGP0E5%2Biw9MI%3D"
+    }
+  },
+  "version": 3
+}
